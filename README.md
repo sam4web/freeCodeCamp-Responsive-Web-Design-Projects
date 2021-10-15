@@ -2,11 +2,11 @@
 
 ###### Projects
 
-- Tribute page [(Live Preview)](https://codepen.io/sam4web/full/qBjQdZY)
-- Survey form [(Live Preview)](https://codepen.io/sam4web/full/zYzMPvm)
-- Product Landing page [(Live Preview)](https://codepen.io/sam4web/full/rNzVbKE)
-- Documentation page [(Live Preview)](https://codepen.io/sam4web/full/porjLvg)
-- Portfolio page [(Live Preview)](https://codepen.io/sam4web/full/xxLZVrV)
+- Tribute page [(Page Preview)](https://codepen.io/sam4web/full/qBjQdZY)
+- Survey form [(Page Preview)](https://codepen.io/sam4web/full/zYzMPvm)
+- Product Landing page [(Page Preview)](https://codepen.io/sam4web/full/rNzVbKE)
+- Documentation page [(Page Preview)](https://codepen.io/sam4web/full/porjLvg)
+- Portfolio page [(Page Preview)](https://codepen.io/sam4web/full/xxLZVrV)
 
 ###### Certification of Completion
 
